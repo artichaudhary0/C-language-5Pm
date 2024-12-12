@@ -75,10 +75,4 @@ int main() {
     // printf("%d\n",arrayName[2]);
     // printf("%d\n",arrayName[3]);
     // printf("%d\n",arrayName[4]);
-    
-    
-    
-    
-    
-    
 }
