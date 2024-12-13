@@ -42,7 +42,7 @@ int main() {
     int array[4] = {1,3,2,8};  // {1,2,4,5}
                 // 0,1,2,3,4
                 
-    int max = array[0]; // 1           
+    int max = array[0]; //  1          
 
     
     for(int i = 1 ; i <4 ; i++)
