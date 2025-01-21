@@ -43,10 +43,7 @@ n = 5 ;
                                         if(1<=1) T
                                         fact(1) rt 1
         
-        */
-        
-        
-        
+        */ 
     }
     
     // int product = 1 ;
